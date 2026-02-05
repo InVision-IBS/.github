@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://via.placeholder.com/120x120.png?text=ORG+LOGO" alt="Organization Logo" width="120" height="120">
+  
+  <img width="270" height="270" alt="invision_logo" src="https://github.com/user-attachments/assets/99cf285e-73ee-485f-a3c9-a84f10fb13b0" />
+
   <br><br>
-  <h1 align="center">YOUR-ORGANIZATION-NAME</h1>
-  <h3 align="center">Building [what you actually build / focus area]</h3>
+  <h1 align="center">InVision IBS</h1>
+  <h3 align="center">Building ERP Solutions</h3>
 </p>
 
 <p align="center">
-  <a href="https://github.com/orgs/YOUR-ORG-NAME"><img src="https://img.shields.io/badge/GitHub_Org-181717?logo=github&logoColor=white" alt="GitHub Organization"></a>
-  <a href="https://YOUR-WEBSITE.com"><img src="https://img.shields.io/badge/Website-000000?logo=google-chrome&logoColor=white" alt="Website"></a>
-  <a href="https://twitter.com/YOURORG"><img src="https://img.shields.io/badge/X/Twitter-000000?logo=x&logoColor=white" alt="X/Twitter"></a>
-  <a href="https://discord.gg/your-invite"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://github.com/orgs/InVision-IBS"><img src="https://img.shields.io/badge/GitHub_Org-181717?logo=github&logoColor=white" alt="GitHub Organization"></a>
+  <a href="https://invision-ibs.vercel.app"><img src="https://img.shields.io/badge/Website-000000?logo=google-chrome&logoColor=white" alt="Website"></a>
   <br>
   <!-- Optional: add these when you have them -->
   <!-- <a href="https://YOURORG.com/blog"><img src="https://img.shields.io/badge/Blog-FF3366?style=flat&logo=ghost&logoColor=white" alt="Blog"></a> -->
@@ -20,66 +20,36 @@
 
 ## ✨ What we do
 
-We are **YOUR-ORGANIZATION-NAME** — a group of [engineers / researchers / builders / tinkerers / maintainers] focused on:
+## 🧭 Our Philosophy
 
-- Main topic / problem we solve
-- Core technology / stack we love
-- Philosophy / values (optional but powerful)
+At **InVision IBS**, we build ERP systems that don't just manage businesses — they **empower** them to see clearly, move faster, and grow sustainably.
 
-Examples:
+We believe:
 
-- Making [X] faster / safer / more private / more beautiful
-- Advancing open-source [AI / infra / security / developer tools / blockchain / …]
-- Building modern alternatives to [popular but outdated tool]
-- Researching & implementing [very specific niche]
+- **Clarity over complexity**  
+  Great ERP shouldn't feel like rocket science. We design intuitive, modular systems that make powerful tools accessible without overwhelming users or developers.
 
-## 🌟 Our flagship / popular repositories
+- **Laravel as our foundation — elegant, scalable, and joyful**  
+  We love Laravel because it lets us write clean, expressive code that lasts. We embrace its ecosystem (Livewire, Filament, Inertia, Laravel Nova, etc.) to ship fast while keeping architecture clean and future-proof.
 
-<table>
-  <tr>
-    <th>Repository</th>
-    <th>Description</th>
-    <th>Stars</th>
-    <th>Language</th>
-  </tr>
-  <!-- Replace with real repos or keep as template -->
-  <tr>
-    <td><a href="https://github.com/YOUR-ORG-NAME/ultra-fast-router">ultra-fast-router</a></td>
-    <td>Next-generation HTTP router – 3–7× faster than the competition</td>
-    <td>![GitHub stars](https://img.shields.io/github/stars/YOUR-ORG-NAME/ultra-fast-router?style=social)</td>
-    <td>Rust / TypeScript</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/YOUR-ORG-NAME/modern-ui-kit">modern-ui-kit</a></td>
-    <td>Copy-paste beautiful components (Tailwind + Radix + Motion)</td>
-    <td>![GitHub stars](https://img.shields.io/github/stars/YOUR-ORG-NAME/modern-ui-kit?style=social)</td>
-    <td>TypeScript</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/YOUR-ORG-NAME/sql-magic">sql-magic</a></td>
-    <td>Write SQL like JavaScript – zero runtime overhead</td>
-    <td>![GitHub stars](https://img.shields.io/github/stars/YOUR-ORG-NAME/sql-magic?style=social)</td>
-    <td>TypeScript</td>
-  </tr>
-</table>
+- **Integration is oxygen**  
+  Siloed data kills businesses. Every module we build talks seamlessly to others — finance talks to inventory, HR talks to payroll, sales talks to everything. No more copy-paste nightmares.
 
-→ [See all repositories →](https://github.com/orgs/YOUR-ORG-NAME/repositories)
+- **Maintainability = kindness**  
+  We write code that the next engineer (or future us) will thank us for. Clean architecture, strong typing, tests that matter, and documentation that actually gets read.
 
-## 🚀 Quick links
+- **Client success before features**  
+  We don't chase shiny new tech for its own sake. Every line of code must solve real pain, save real time, or unlock real growth for the businesses we serve.
 
-- [Contributing Guide](https://github.com/YOUR-ORG-NAME/.github/blob/main/CONTRIBUTING.md)
-- [Code of Conduct](https://github.com/YOUR-ORG-NAME/.github/blob/main/CODE_OF_CONDUCT.md)
-- [Security Policy](https://github.com/YOUR-ORG-NAME/.github/blob/main/SECURITY.md)
-- [Our Roadmap (public board) →](https://github.com/orgs/YOUR-ORG-NAME/projects/1)
-- [Hiring / We're looking for →](https://YOUR-ORG-NAME.com/careers) ← optional
+- **Openness where it counts**  
+  We contribute back to Laravel & PHP communities when we can, because shared knowledge lifts everyone — including our own team.
+
+In short:  
+We craft **visionary yet practical ERP solutions** that help Philippine (and global) businesses run smarter, not harder — powered by elegant Laravel craftsmanship and ruthless focus on real-world outcomes.
 
 ## 💬 Where to find us
 
-- **Website** → https://YOUR-ORG-NAME.com  
-- **Discord** → https://discord.gg/your-invite  
-- **X / Twitter** → [@YOURORG](https://twitter.com/YOURORG)  
-- **Bluesky** → [@yourorg.bsky.social](https://bsky.app/profile/yourorg.bsky.social) *(optional)*  
-- **Newsletter** → https://buttondown.email/yourorg *(optional)*
+- **Website** → (https://invision-ibs.vercel.app/) 
 
 <br>
 
